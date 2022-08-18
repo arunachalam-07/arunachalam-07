@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arunachalam
-- 👀 I’m Working as manual test engineer in Tata consultancy services from Sep-2021 as Analyst in Fianancial domain
+- 👀 I’m Working as manual test engineer in Tata consultancy services from Sep-2021 as Analyst in Financial domain
 - 🌱 I’m currently learning selenium
 - 📫 Reach me via email:arunachalams.citcse2017@gmail.com
 - for suggesstions and guidance kindly send a mail
