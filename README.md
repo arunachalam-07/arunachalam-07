@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arunachalam
-- 👀 I’m Working as manual test engineer in Tata consultancy services from Sep-2021 as Analyst in Financial domain
+- 👀 I’m Working as Senior Test Engineer in CGI from Sep-2021 as payments functional Tester
 - 🌱 I’m currently learning UI automation using selenium and SWIFT messaging system
 - 📫 Reach me via email:arunachalams.citcse2017@gmail.com
-- for suggesstions and guidance kindly send a mail
+- for sugesstions and guidance kindly send a mail
 
 <!---
 arunachalam-07/arunachalam-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
