@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Arunachalam
 - 👀 I’m Working as Senior Test Engineer in CGI as payments functional Tester
-- 🌱 I’m currently learning UI automation using selenium and SWIFT messaging system
+- 🌱 I’m currently learning UI automation using selenium and API automation using REST API
 - 📫 Reach me via email:arunachalams.citcse2017@gmail.com
-- for suggestions and guidance kindly send a mail
 
 <!---
 arunachalam-07/arunachalam-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
